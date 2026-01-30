@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/surajpathak/All-Coding-Language/C++/CoderArmy/DAY5",
+      "program": "/Users/surajpathak/All-Coding-Language/C++/CoderArmy/DAY5/build/Debug/outDebug"
+    }
+  ]
+}
